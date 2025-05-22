@@ -1,2 +1,2 @@
-# dasc-4123
+# Deep Learning Social Impact
 Repository for final project in Social Problems DASC course
